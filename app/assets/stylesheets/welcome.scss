@@ -1,0 +1,23 @@
+// Place all the styles related to the welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#welcome-index {
+  .content-wrapper {
+    display: flex;
+
+
+    .content-block {
+      background-color: #b00100;
+      width: 80%;
+      height: 200px;
+
+    }
+    .sidebar {
+      background-color: cadetblue;
+      width: 20%;
+      height: 200px;
+
+    }
+  }
+}
